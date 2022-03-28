@@ -1,4 +1,4 @@
-#Simple Pong game for Python beginners
+#Simple Pong game
 
 import turtle
 
